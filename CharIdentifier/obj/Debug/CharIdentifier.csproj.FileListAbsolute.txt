@@ -1,0 +1,11 @@
+C:\Project loation\visual studio\CharIdentifier\CharIdentifier\bin\Debug\CharIdentifier.exe.config
+C:\Project loation\visual studio\CharIdentifier\CharIdentifier\bin\Debug\CharIdentifier.exe
+C:\Project loation\visual studio\CharIdentifier\CharIdentifier\bin\Debug\CharIdentifier.pdb
+C:\Project loation\visual studio\CharIdentifier\CharIdentifier\obj\Debug\CharIdentifier.csproj.AssemblyReference.cache
+C:\Project loation\visual studio\CharIdentifier\CharIdentifier\obj\Debug\CharIdentifier.CharIndentifier.resources
+C:\Project loation\visual studio\CharIdentifier\CharIdentifier\obj\Debug\CharIdentifier.Form1.resources
+C:\Project loation\visual studio\CharIdentifier\CharIdentifier\obj\Debug\CharIdentifier.Properties.Resources.resources
+C:\Project loation\visual studio\CharIdentifier\CharIdentifier\obj\Debug\CharIdentifier.csproj.GenerateResource.cache
+C:\Project loation\visual studio\CharIdentifier\CharIdentifier\obj\Debug\CharIdentifier.csproj.CoreCompileInputs.cache
+C:\Project loation\visual studio\CharIdentifier\CharIdentifier\obj\Debug\CharIdentifier.exe
+C:\Project loation\visual studio\CharIdentifier\CharIdentifier\obj\Debug\CharIdentifier.pdb
